@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trahey Blog</title>
+    <link>https://alextrahey.github.io/</link>
+    <description>Recent content on Trahey Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2023 16:25:07 -0500</lastBuildDate><atom:link href="https://alextrahey.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://alextrahey.github.io/posts/test-post/</link>
+      <pubDate>Mon, 16 Jan 2023 16:25:07 -0500</pubDate>
+      
+      <guid>https://alextrahey.github.io/posts/test-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>
